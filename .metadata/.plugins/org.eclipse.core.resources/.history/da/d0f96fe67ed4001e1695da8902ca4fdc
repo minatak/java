@@ -1,0 +1,21 @@
+package t01;
+
+public class Test5 {
+	public static void main(String[] args) {
+		int su = 30;
+		System.out.printf("숫자 : %d\n", su);
+		
+		int su2 = 50-3;
+		int su3 = su+su2;
+		int su4, su5, su6;
+		su4 = 10;
+		su5 = 20;
+		su6 = 30;
+		System.out.println("su3 : " + su3 + ", su4 : " + su4);
+		
+		System.out.println(su3);
+		
+		int $su8 = 200;
+		System.out.println("$su8 : " + $su8);
+	}
+}
